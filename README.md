@@ -1,18 +1,23 @@
-# Are you high?
+# Simple To do 
 
-With more than 20 silly questions, you can be able to evaluate how high you currently are yourself when consuming weeds, in order to make sure that you have the capability for daily behaviors. (This application is not considered as an serious test, you are not supposed to rely on the result xoxo).
+Brand new task management application for everyone. Easy, functional but cool.
 
-
+## Features:
+ * 2 ways of categorizing: by **Priority** and by **Completion**
+ * Editing functionality: Marking as done, swapping, deleting tasks
+ * Task detail avalable when tapping on task
+ * Add new task
+ * **Night mode** :sunglasses:
+ 
+ 
 ## Screenshots
-<img src="https://user-images.githubusercontent.com/45373299/57602036-eb5b4880-7512-11e9-9110-754be51b0419.png" alt="screenshot_1" width="200"/> <img src="https://user-images.githubusercontent.com/45373299/57602285-98ce5c00-7513-11e9-904a-333701d501c5.png" alt="screenshot_2" width="200"/>
-<img src="https://user-images.githubusercontent.com/45373299/57602293-9c61e300-7513-11e9-9ba8-d6529b72d069.png" alt="screenshot_3" width="200"/>
-<img src="https://user-images.githubusercontent.com/45373299/57602298-9ec43d00-7513-11e9-8892-893377009c0a.png" alt="screenshot_4" width="200"/>
+<img src="https://user-images.githubusercontent.com/45373299/57992818-037b1c80-7a6b-11e9-904e-7294e8c18b02.png" alt="screenshot_1" width="200"/> <img src="https://user-images.githubusercontent.com/45373299/57992826-07a73a00-7a6b-11e9-9017-264e23bb8f5c.png" alt="screenshot_2" width="200"/>
+<img src="https://user-images.githubusercontent.com/45373299/57992827-0a099400-7a6b-11e9-9682-30a2cda44910.png" alt="screenshot_3" width="200"/>
+<img src="https://user-images.githubusercontent.com/45373299/57992828-0b3ac100-7a6b-11e9-8ae6-43cf4d8d1d50.png" alt="screenshot_4" width="200"/>
 
 ## Development
   * **Developer:** Thong Hoang Nguyen
-  * **Language:** Java
-  * **Tool:** Android Studio
+  * **Language:** Swift
+  * **Tool:** Xcode
   * **APIs:** 
-    * Android API (https://developer.android.com/)
-    * GIF API (https://github.com/koral--/android-gif-drawable)
-# Simple_ToDo_App
+    * Apple API (https://developer.apple.com/documentation/)
